@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning html, css, javascript, Python, c++, mechatronics, let's see what happens
 - 💞️ I’m looking to collaborate on anything really, need to practice.
 - 📫 How to reach me: jp. molesworth @gmail .com (remove the spaces)
-
+- Currently on day 38 of 100 days of Python…
 <!---
 john-kobi/john-kobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
